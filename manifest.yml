@@ -1,8 +1,8 @@
 ---
-name : twitter
-website : http://twitter.github.com/bootstrap
-git_url : git://github.com/jekyllbootstrap/theme-twitter.git
-source_url : https://github.com/jekyllbootstrap/theme-twitter
+name : twitter-shigeya
+website : http://github.com/shigeya/twitter-shigeya
+git_url : git://github.com/shigeya/theme-twitter-shigeya.git
+source_url : https://github.com/shigeya/theme-twitter-shigeya
 author:
-  name : "Jacob Thornton and Mark Otto"
-  website : http://twitter.github.com/bootstrap
+  name : "Shigeya Suzuki"
+  website : http://github.com/shigeya
